@@ -1,5 +1,4 @@
-- 👋 Hi, I’m @andersonjava-code 
-- 🌱 I’m currently learning Python and Java
+- 👋 Hi, I’m @anderson.code 
 - 📫 How to reach me ...andersonokolo@gmail.com
 
 <!---
